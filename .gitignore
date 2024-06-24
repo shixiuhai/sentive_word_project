@@ -1,0 +1,5 @@
+output_dir/model.safetensors
+output_dir/*.json
+output_dir/*.txt
+*.json
+*.txt
