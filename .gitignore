@@ -3,3 +3,6 @@ output_dir/*.json
 output_dir/*.txt
 *.json
 *.txt
+bert/fine_tuned_model
+bert/output_dir
+*.safetensors
